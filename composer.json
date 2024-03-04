@@ -1,0 +1,27 @@
+{
+    "name": "php-di/php-di",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Maydana",
+            "email": "mattmaydana@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/container": "^2.0",
+        "larapack/dd": "^1.1"
+    },
+    "require-dev": {
+        "pestphp/pest": "^2.34",
+        "react/promise": "^2.8"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
