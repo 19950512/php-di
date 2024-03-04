@@ -1,5 +1,7 @@
 {
     "name": "19950512/php-di",
+    "description": "A simple PHP DI Container",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
