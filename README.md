@@ -19,7 +19,7 @@ Este é um simples e flexível container de injeção de dependência em PHP, pr
 Você pode instalar este container via Composer. Execute o seguinte comando no terminal:
 
 ```bash
-composer require maydana/php-di
+composer require 19950512/php-di
 ```
 
 ## Uso básico
