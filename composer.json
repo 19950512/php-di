@@ -14,8 +14,7 @@
         }
     ],
     "require": {
-        "psr/container": "^2.0",
-        "larapack/dd": "^1.1"
+        "psr/container": "^2.0"
     },
     "require-dev": {
         "pestphp/pest": "^2.34",
